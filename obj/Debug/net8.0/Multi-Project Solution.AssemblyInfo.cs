@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multi-Project Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98a9a4bd71fd735d74a21e8873c991a1379cd733")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multi-Project Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multi-Project Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
