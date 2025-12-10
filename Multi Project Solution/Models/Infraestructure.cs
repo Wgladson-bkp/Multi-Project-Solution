@@ -1,5 +1,4 @@
 ﻿using Multi_Project_Solution.Common;
-using System;
 
 namespace Multi_Project_Solution.Models
 {
@@ -7,7 +6,7 @@ namespace Multi_Project_Solution.Models
     {
         public Infraestructure(string version)
         {
-            ProjectFolder = Path.Combine(App.BaseFolder,"Infrastructure");
+            ProjectFolder = Path.Combine(App.BaseFolder, "Infrastructure");
             ProjectName = "Interop";
             FrameworkVersion = version;
         }
