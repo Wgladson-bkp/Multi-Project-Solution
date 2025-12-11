@@ -29,25 +29,25 @@ namespace Multi_Project_Solution.Models
   <ItemGroup>
 
     <!-- App root -->
-    <Folder Include=""App\Models\"" />
-    <Folder Include=""App\DTOs\"" />
-    <Folder Include=""App\Interfaces\"" />
-    <Folder Include=""App\UseCases\"" />
-    <Folder Include=""App\Validators\"" />
-    <Folder Include=""App\Mappers\"" />
-    <Folder Include=""App\Services\"" />
-    <Folder Include=""App\Handlers\"" />
+    <Folder Include=""{ProjectName}\Models\"" />
+    <Folder Include=""{ProjectName}\DTOs\"" />
+    <Folder Include=""{ProjectName}\Interfaces\"" />
+    <Folder Include=""{ProjectName}\UseCases\"" />
+    <Folder Include=""{ProjectName}\Validators\"" />
+    <Folder Include=""{ProjectName}\Mappers\"" />
+    <Folder Include=""{ProjectName}\Services\"" />
+    <Folder Include=""{ProjectName}\Handlers\"" />
 
     <!-- Items -->
-    <Folder Include=""App\Items\Media\"" />
-    <Folder Include=""App\Items\Functions\"" />
-    <Folder Include=""App\Items\Resources\"" />
+    <Folder Include=""{ProjectName}\Items\Media\"" />
+    <Folder Include=""{ProjectName}\Items\Functions\"" />
+    <Folder Include=""{ProjectName}\Items\Resources\"" />
 
     <!-- Data -->
-    <Folder Include=""App\Data\Exceptions\"" />
-    <Folder Include=""App\Data\Enums\"" />
-    <Folder Include=""App\Data\Logs\"" />
-    <Folder Include=""App\Data\Reports\"" />
+    <Folder Include=""{ProjectName}\Data\Exceptions\"" />
+    <Folder Include=""{ProjectName}\Data\Enums\"" />
+    <Folder Include=""{ProjectName}\Data\Logs\"" />
+    <Folder Include=""{ProjectName}\Data\Reports\"" />
 
   </ItemGroup>
 

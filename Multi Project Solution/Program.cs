@@ -66,7 +66,8 @@ namespace Multi_Project_Solution
                 var projList = new List<ITemplateBase>()
                 {
                     new Application(App.ProjectVersion),
-                    new Infraestructure(App.ProjectVersion)};
+                    new Infraestructure(App.ProjectVersion),
+                    new Domain(App.ProjectVersion)};
 
 
                 //_ = new Application(App.ProjectVersion);
