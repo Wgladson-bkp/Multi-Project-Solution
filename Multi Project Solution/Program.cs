@@ -67,7 +67,9 @@ namespace Multi_Project_Solution
                 {
                     new Application(App.ProjectVersion),
                     new Infraestructure(App.ProjectVersion),
-                    new Domain(App.ProjectVersion)};
+                    new Domain(App.ProjectVersion),
+                    new Presentation(App.ProjectVersion)
+                };
 
 
                 //_ = new Application(App.ProjectVersion);
